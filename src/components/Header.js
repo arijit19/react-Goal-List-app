@@ -12,6 +12,6 @@ const Header = (props)=>{
 }
 
 Header.defaultProps = {
-    title : 'GoalList'
+    title : 'Decisiveness'
 }
 export default Header;
